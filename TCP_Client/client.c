@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 	WSADATA wsa;
 	SOCKET s;
 	struct sockaddr_in client;
-	char *message="216986", server_reply[512];
+	char *message="000000", server_reply[512];
 	int recv_size;
 	printf("\nInitialising Winsock... Client socket");
 	if (WSAStartup(MAKEWORD(2, 2), &wsa) != 0)
