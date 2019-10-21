@@ -1,0 +1,2 @@
+Hei, Rahmat!
+Naa skal du gjoere det samme som i den foerste oppgaven, men i et annet språk og/eller OS. Du skal også implementere 3 nye meldinger med ID 0x03, 0x04 og 0x05. 0x03 er 'PING', og skal besvares med 0x04 'PONG'. Dette skal klienten gjoere "��
